@@ -2,10 +2,7 @@
 
 ### Project Overview
 
-This project analyzes an insurance database using PostgreSQL to uncover key insights into claim patterns, customer demographics, and policy performance. Key objectives include:
-
-- Identifying trends in claim frequency and average amounts.
-- Analyzing claims by policy type, state, and customer demographics.
+This project uses PostgreSQL to analyze an insurance database, uncovering trends in claim frequency and amounts, and examining claims by policy type, state, and customer demographics.
 
   ### Datasets
   - Claims
