@@ -19,9 +19,7 @@ This project uses PostgreSQL to analyze an insurance database, uncovering trends
 - Aggregations
 - CTEs
 - Window Functions
-- Grouping and Sorting
 - Case Statements
-- Date Functions
 
   
 ### Questions Explored
