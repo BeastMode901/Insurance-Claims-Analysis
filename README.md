@@ -10,9 +10,9 @@ This project uses PostgreSQL to analyze an insurance database, uncovering trends
   - Policies
   - Policy Types
 
-### Tools
-- Postgres SQL - Utilized for creating tables, inserting data, and performing data analysis.
-    - [Download Postgres SQL Here](https://www.postgresql.org/download/windows/)
+### Tool
+- PostgreSQL - Utilized for creating tables, inserting data, and performing data analysis.
+    - [Download PostgreSQL Here](https://www.postgresql.org/download/windows/)
  
 ### Skills Applied
 - JOINs
