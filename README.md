@@ -1,7 +1,7 @@
 # Insurance Claims Analysis
 
 ### Project Overview
-This project uses PostgreSQL to analyze an insurance database, uncovering trends in claim frequency and amounts, and examining claims by policy type, state, and customer demographics.
+In this project, I explored an insurance database to uncover trends in claims and customer behavior. I analyzed the number and amounts of claims, examined patterns by policy type, state, and customer demographics, and tracked how claim statuses varied over time. I identified the most frequent claim types, the customers filing the most claims, and differences in claim frequency across age groups. The goal was to understand claims patterns and customer behavior, providing insights into how insurance data can inform business decisions.
 
 ### Datasets
 - **Claims**  
