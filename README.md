@@ -1,4 +1,4 @@
-# Insurance Claims Analysis
+# Insurance Claims & Risk Trends
 
 ### Project Overview
 In this project, I explored an insurance database to uncover trends in claims activity and customer behavior. The analysis examined the number and value of claims, identified patterns by policy type, state, and customer demographics, and observed how claim statuses changed over time. I also determined the most frequent claim types, identified customers who filed the highest number of claims, and compared claim frequency across age groups. The goal of this project was to understand claims patterns and customer behavior, providing insights into how insurance data can support strategic business decisions.
